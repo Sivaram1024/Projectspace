@@ -1,0 +1,15 @@
+{
+    "appDisplayName": "Placement Analytics Platform",
+    "description": "College placement management with personalized readiness scores, skill gap analysis, and admin drive management",
+    "buildPath": "./dist",
+    "buildEntryPoint": "index.html",
+    "logoPath": "Default",
+    "localAppUrl": "http://localhost:5173/",
+    "appId": "8d27672e-3b93-4f23-ac0e-d1997b3e6745",
+    "tags": {
+        "planId": "",
+        "projectId": "982563e3-cb29-4b90-ab3d-15a805334293"
+    },
+    "connectionReferences": {},
+    "databaseReferences": {}
+}

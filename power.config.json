@@ -1,0 +1,52 @@
+{
+  "environmentId": "6a6731d6-15a7-e970-942e-0dadd22641d1",
+  "appDisplayName": "Placement portal",
+  "description": "Used by students and placement admins to manage profiles, readiness insights, and placement drives.",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "logoPath": "Default",
+  "localAppUrl": "http://localhost:5173/",
+  "appId": "10b3ab2e-f16a-46ae-a4e5-8468df8fd913",
+  "connectionReferences": {},
+  "databaseReferences": {
+    "default.cds": {
+      "state": "Configured",
+      "instanceUrl": "https://org43eed2ce.crm8.dynamics.com",
+      "webApiVersion": "v9.0",
+      "dataSources": {
+        "cr69a_driverequiredskill": {
+          "entitySetName": "cr69a_driverequiredskills",
+          "logicalName": "cr69a_driverequiredskill",
+          "isHidden": false
+        },
+        "cr69a_skill1": {
+          "entitySetName": "cr69a_skill1s",
+          "logicalName": "cr69a_skill1",
+          "isHidden": false
+        },
+        "cr69a_student1": {
+          "entitySetName": "cr69a_student1s",
+          "logicalName": "cr69a_student1",
+          "isHidden": false
+        },
+        "cr69a_studentskill1": {
+          "entitySetName": "cr69a_studentskill1s",
+          "logicalName": "cr69a_studentskill1",
+          "isHidden": false
+        },
+        "cr69a_placementdrive1": {
+          "entitySetName": "cr69a_placementdrive1s",
+          "logicalName": "cr69a_placementdrive1",
+          "isHidden": false
+        },
+        "cr69a_notification1": {
+          "entitySetName": "cr69a_notification1s",
+          "logicalName": "cr69a_notification1",
+          "isHidden": false
+        }
+      },
+      "version": "v9.0",
+      "environmentVariableName": ""
+    }
+  }
+}

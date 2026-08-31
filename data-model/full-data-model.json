@@ -1,0 +1,5208 @@
+{
+  "inMemoryTables": [
+    {
+      "data": [
+        {
+          "cr69a_name": "Rahul Sharma",
+          "cr69a_rollnumber": "23MH1A4462",
+          "cr69a_email": "rahul.sharma@college.edu",
+          "cr69a_department": 372620000,
+          "cr69a_year": 372620003,
+          "cr69a_cgpa": 8.5,
+          "cr69a_readinessscore": 85,
+          "cr69a_role": 372620000,
+          "cr69a_profileimage": "indian student male",
+          "cr69a_student2id": "093d19ea-df96-4bb7-a3f6-bbe1e1344d05"
+        },
+        {
+          "cr69a_name": "Priya Patel",
+          "cr69a_rollnumber": "23MH1A4401",
+          "cr69a_email": "priya.patel@college.edu",
+          "cr69a_department": 372620000,
+          "cr69a_year": 372620003,
+          "cr69a_cgpa": 9.2,
+          "cr69a_readinessscore": 92,
+          "cr69a_role": 372620000,
+          "cr69a_profileimage": "indian student female",
+          "cr69a_student2id": "7d5e6dc2-b8b1-42dc-9c1e-04db1a4e56be"
+        },
+        {
+          "cr69a_name": "Arjun Reddy",
+          "cr69a_rollnumber": "23MH1A5123",
+          "cr69a_email": "arjun.reddy@college.edu",
+          "cr69a_department": 372620001,
+          "cr69a_year": 372620003,
+          "cr69a_cgpa": 7.8,
+          "cr69a_readinessscore": 78,
+          "cr69a_role": 372620000,
+          "cr69a_profileimage": "indian student male",
+          "cr69a_student2id": "32966565-886a-4377-a297-a32156da8c5a"
+        },
+        {
+          "cr69a_name": "Sneha Gupta",
+          "cr69a_rollnumber": "23MH1A3045",
+          "cr69a_email": "sneha.gupta@college.edu",
+          "cr69a_department": 372620002,
+          "cr69a_year": 372620002,
+          "cr69a_cgpa": 8.1,
+          "cr69a_readinessscore": 70,
+          "cr69a_role": 372620000,
+          "cr69a_profileimage": "indian student female",
+          "cr69a_student2id": "d70dc1eb-41de-45d0-8db7-d6ca4a5bb872"
+        },
+        {
+          "cr69a_name": "Vikram Singh",
+          "cr69a_rollnumber": "23MH1A6234",
+          "cr69a_email": "vikram.singh@college.edu",
+          "cr69a_department": 372620005,
+          "cr69a_year": 372620003,
+          "cr69a_cgpa": 8.9,
+          "cr69a_readinessscore": 88,
+          "cr69a_role": 372620000,
+          "cr69a_profileimage": "indian student male",
+          "cr69a_student2id": "df5c0679-bfae-443c-8379-5fb07d434348"
+        },
+        {
+          "cr69a_name": "Ananya Krishnan",
+          "cr69a_rollnumber": "23MH1A4512",
+          "cr69a_email": "ananya.k@college.edu",
+          "cr69a_department": 372620000,
+          "cr69a_year": 372620002,
+          "cr69a_cgpa": 7.5,
+          "cr69a_readinessscore": 65,
+          "cr69a_role": 372620000,
+          "cr69a_profileimage": "indian student female",
+          "cr69a_student2id": "d8f56455-0300-409e-95ab-0040e4431a4a"
+        },
+        {
+          "cr69a_name": "Karthik Menon",
+          "cr69a_rollnumber": "23MH1A4300",
+          "cr69a_email": "karthik.menon@college.edu",
+          "cr69a_department": 372620000,
+          "cr69a_year": 372620003,
+          "cr69a_cgpa": 9,
+          "cr69a_readinessscore": 90,
+          "cr69a_role": 372620000,
+          "cr69a_profileimage": "indian student male",
+          "cr69a_student2id": "f2996d43-8b4a-427e-8ce9-6fb3e456b59d"
+        },
+        {
+          "cr69a_name": "Divya Nair",
+          "cr69a_rollnumber": "23MH1A5089",
+          "cr69a_email": "divya.nair@college.edu",
+          "cr69a_department": 372620001,
+          "cr69a_year": 372620003,
+          "cr69a_cgpa": 8.3,
+          "cr69a_readinessscore": 82,
+          "cr69a_role": 372620000,
+          "cr69a_profileimage": "indian student female",
+          "cr69a_student2id": "c8d3c66b-1410-4c4c-bbd6-4466d08e55a7"
+        },
+        {
+          "cr69a_name": "Admin User",
+          "cr69a_rollnumber": "23MH1A0001",
+          "cr69a_email": "admin@college.edu",
+          "cr69a_department": 372620000,
+          "cr69a_year": 372620003,
+          "cr69a_cgpa": 10,
+          "cr69a_readinessscore": 100,
+          "cr69a_role": 372620001,
+          "cr69a_profileimage": "admin professional",
+          "cr69a_student2id": "1111b399-acbd-4c25-97f7-9a17f94d4a5b"
+        },
+        {
+          "cr69a_name": "Rohan Desai",
+          "cr69a_rollnumber": "23MH1A4678",
+          "cr69a_email": "rohan.desai@college.edu",
+          "cr69a_department": 372620005,
+          "cr69a_year": 372620002,
+          "cr69a_cgpa": 7.2,
+          "cr69a_readinessscore": 68,
+          "cr69a_role": 372620000,
+          "cr69a_profileimage": "indian student male",
+          "cr69a_student2id": "506ba01d-6fde-454e-a929-92b77fd3d0e3"
+        }
+      ],
+      "entity": {
+        "MetadataId": "2dc975d1-14bd-4b1d-b275-cbe40ea2887f",
+        "Attributes": [
+          {
+            "MetadataId": "451d8bc8-9eaa-46f5-87af-8d0010e6fad2",
+            "IsPrimaryName": true,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Name",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Name",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 850,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "6f694657-ac2d-4238-80ac-a208095d58b1",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_RollNumber",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Roll Number",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 100,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "c93c939e-17d4-4afa-bd31-df63585fbaf3",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Email",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Email",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 100,
+            "FormatName": {
+              "Value": "Email"
+            },
+            "Format": "Email",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "8bc12a3a-e4fb-4880-bfc5-ea0428bc2cd7",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Department",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Department",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Picklist",
+            "AttributeTypeName": {
+              "Value": "PicklistType"
+            },
+            "DefaultFormValue": -1,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "ExternalTypeName": "",
+              "OptionSetType": "Picklist",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Department",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "Options": [
+                {
+                  "Value": 372620000,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Computer Science",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620001,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Electronics",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620002,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Mechanical",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620003,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Civil",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620004,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Electrical",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620005,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Information Technology",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                }
+              ],
+              "Name": "cr69a_student2_cr69a_department"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.PicklistAttributeMetadata"
+          },
+          {
+            "MetadataId": "5703fc97-d644-4fcd-9282-adb9b3454b28",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Year",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Year",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Picklist",
+            "AttributeTypeName": {
+              "Value": "PicklistType"
+            },
+            "DefaultFormValue": -1,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "ExternalTypeName": "",
+              "OptionSetType": "Picklist",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Year",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "Options": [
+                {
+                  "Value": 372620000,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "1st Year",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620001,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "2nd Year",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620002,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "3rd Year",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620003,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "4th Year",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                }
+              ],
+              "Name": "cr69a_student2_cr69a_year"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.PicklistAttributeMetadata"
+          },
+          {
+            "MetadataId": "e7bf97d5-574a-4f57-ac8d-6d3b17d0e4d0",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_CGPA",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "CGPA",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Decimal",
+            "AttributeTypeName": {
+              "Value": "DecimalType"
+            },
+            "ImeMode": "Auto",
+            "MaxValue": 100000000000,
+            "MinValue": -100000000000,
+            "Precision": 2,
+            "@odata.type": "Microsoft.Dynamics.CRM.DecimalAttributeMetadata"
+          },
+          {
+            "MetadataId": "ed6c3b28-aa88-441e-9326-df713f39bdff",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_ReadinessScore",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Readiness Score",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "None"
+            },
+            "AttributeType": "Integer",
+            "AttributeTypeName": {
+              "Value": "IntegerType"
+            },
+            "MaxValue": 2147483647,
+            "MinValue": -2147483648,
+            "Format": "None",
+            "@odata.type": "Microsoft.Dynamics.CRM.IntegerAttributeMetadata"
+          },
+          {
+            "MetadataId": "2d8a2877-061f-45d6-ba66-dc38d7b33463",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Role",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Role",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Picklist",
+            "AttributeTypeName": {
+              "Value": "PicklistType"
+            },
+            "DefaultFormValue": -1,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "ExternalTypeName": "",
+              "OptionSetType": "Picklist",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Role",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "Options": [
+                {
+                  "Value": 372620000,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Student",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620001,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Admin",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                }
+              ],
+              "Name": "cr69a_student2_cr69a_role"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.PicklistAttributeMetadata"
+          },
+          {
+            "MetadataId": "d0e79c39-ee00-48e0-a7bd-f981a9253a4b",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_ProfileImage",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Profile Image",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "None"
+            },
+            "AttributeType": "Memo",
+            "AttributeTypeName": {
+              "Value": "MemoType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 2000,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.MemoAttributeMetadata"
+          }
+        ],
+        "OwnershipType": "UserOwned",
+        "PrimaryNameAttribute": "cr69a_name",
+        "SchemaName": "cr69a_Student2",
+        "HasNotes": false,
+        "HasActivities": false,
+        "IsAvailableOffline": false,
+        "IsActivity": false,
+        "ActivityTypeMask": 0,
+        "IsSolutionAware": false,
+        "Description": {
+          "LocalizedLabels": [
+            {
+              "Label": "Core student profile information",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayCollectionName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Students",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Student",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "IsAuditEnabled": {
+          "Value": false
+        },
+        "IsValidForQueue": {
+          "Value": false
+        },
+        "IsConnectionsEnabled": {
+          "Value": false
+        },
+        "IsDuplicateDetectionEnabled": {
+          "Value": true
+        },
+        "IsDocumentManagementEnabled": false,
+        "EntityColor": null,
+        "IsRetentionEnabled": false,
+        "SyncToExternalSearchIndex": false,
+        "AutoRouteToOwnerQueue": false,
+        "IsSLAEnabled": false,
+        "IsQuickCreateEnabled": false,
+        "IsActivityParty": false,
+        "HasFeedback": false,
+        "AutoCreateAccessTeams": false,
+        "ChangeTrackingEnabled": false,
+        "IsKnowledgeManagementEnabled": false,
+        "EntityHelpUrlEnabled": false,
+        "EntityHelpUrl": null,
+        "IsMailMergeEnabled": {
+          "Value": true
+        },
+        "IsOfflineInMobileClient": {
+          "Value": false
+        },
+        "ManyToOneRelationships": [],
+        "@odata.type": "Microsoft.Dynamics.CRM.EntityMetadata",
+        "PrimaryIdAttribute": "cr69a_student2id"
+      },
+      "dataPayloadFormat": "Dataverse",
+      "tableSourceType": "DataModelProposal"
+    },
+    {
+      "data": [
+        {
+          "cr69a_name": "Python",
+          "cr69a_category": 372620000,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 9,
+          "cr69a_skill2id": "1bf7c79f-b2cd-4606-bf76-9e88223f3ed3"
+        },
+        {
+          "cr69a_name": "Java",
+          "cr69a_category": 372620000,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 9,
+          "cr69a_skill2id": "379c469e-e23a-4582-bec6-1a707db69ad9"
+        },
+        {
+          "cr69a_name": "JavaScript",
+          "cr69a_category": 372620000,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 8,
+          "cr69a_skill2id": "20b8167d-c1e2-465c-ac25-75a438f4c851"
+        },
+        {
+          "cr69a_name": "React",
+          "cr69a_category": 372620001,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 8,
+          "cr69a_skill2id": "626ec2cd-4504-45a7-8e68-10b31544e415"
+        },
+        {
+          "cr69a_name": "Node.js",
+          "cr69a_category": 372620001,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 7,
+          "cr69a_skill2id": "5b11c291-85cb-40ce-a846-069d05915134"
+        },
+        {
+          "cr69a_name": "SQL",
+          "cr69a_category": 372620002,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 8,
+          "cr69a_skill2id": "2beb4f81-10ea-47a1-be6f-6d99fc76879b"
+        },
+        {
+          "cr69a_name": "MongoDB",
+          "cr69a_category": 372620002,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 7,
+          "cr69a_skill2id": "0720560c-ee0c-4e29-bd29-56f0f2ea05f5"
+        },
+        {
+          "cr69a_name": "Git",
+          "cr69a_category": 372620003,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 9,
+          "cr69a_skill2id": "990c905b-0cde-451d-aea0-2e493bb7a479"
+        },
+        {
+          "cr69a_name": "Docker",
+          "cr69a_category": 372620006,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 7,
+          "cr69a_skill2id": "18638ca1-4fcc-4f43-8bfd-4375d5f3d083"
+        },
+        {
+          "cr69a_name": "AWS",
+          "cr69a_category": 372620005,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 8,
+          "cr69a_skill2id": "a44df860-d172-4de4-b63d-43c2e03c8e14"
+        },
+        {
+          "cr69a_name": "Communication",
+          "cr69a_category": 372620004,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 9,
+          "cr69a_skill2id": "2a7181c5-92ae-49cf-b738-2146f3c0133d"
+        },
+        {
+          "cr69a_name": "Problem Solving",
+          "cr69a_category": 372620004,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 10,
+          "cr69a_skill2id": "f3c3a9e7-353c-4af9-9510-7a0fd5d981dd"
+        },
+        {
+          "cr69a_name": "Spring Boot",
+          "cr69a_category": 372620001,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 7,
+          "cr69a_skill2id": "fa9c835c-ffe4-4c52-983e-19f2312ab519"
+        },
+        {
+          "cr69a_name": "Angular",
+          "cr69a_category": 372620001,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 6,
+          "cr69a_skill2id": "d85207a2-5abd-40f0-951b-c36787046435"
+        },
+        {
+          "cr69a_name": "C++",
+          "cr69a_category": 372620000,
+          "cr69a_istrending": false,
+          "cr69a_demandweight": 7,
+          "cr69a_skill2id": "22e7540d-0072-438d-b175-8a13142e327d"
+        },
+        {
+          "cr69a_name": "Data Structures",
+          "cr69a_category": 372620004,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 10,
+          "cr69a_skill2id": "f14a8007-68e6-4d7f-a8ee-0128ced6a9b6"
+        },
+        {
+          "cr69a_name": "Algorithms",
+          "cr69a_category": 372620004,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 10,
+          "cr69a_skill2id": "1b1244a2-0faa-438b-bb62-18d040a1af37"
+        },
+        {
+          "cr69a_name": "Machine Learning",
+          "cr69a_category": 372620001,
+          "cr69a_istrending": true,
+          "cr69a_demandweight": 8,
+          "cr69a_skill2id": "2b1e864c-7a65-44a2-9352-fb02dee83fa5"
+        }
+      ],
+      "entity": {
+        "MetadataId": "add7f2a4-aed0-43af-a818-5539fb06ac3f",
+        "Attributes": [
+          {
+            "MetadataId": "057bf173-7ecc-43cb-b726-85e38cf3e39e",
+            "IsPrimaryName": true,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Name",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Name",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 850,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "082245e1-5efe-49ce-8720-2d875e174c06",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Category",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Category",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Picklist",
+            "AttributeTypeName": {
+              "Value": "PicklistType"
+            },
+            "DefaultFormValue": -1,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "ExternalTypeName": "",
+              "OptionSetType": "Picklist",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Category",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "Options": [
+                {
+                  "Value": 372620000,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Programming Language",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620001,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Framework",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620002,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Database",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620003,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Tool",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620004,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Soft Skill",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620005,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Cloud",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620006,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "DevOps",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                }
+              ],
+              "Name": "cr69a_skill2_cr69a_category"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.PicklistAttributeMetadata"
+          },
+          {
+            "MetadataId": "951e9a5e-e57f-42ec-987c-4501fa80cb3c",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_IsTrending",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Is Trending",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Boolean",
+            "AttributeTypeName": {
+              "Value": "BooleanType"
+            },
+            "DefaultValue": false,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "IsManaged": false,
+              "ExternalTypeName": "",
+              "OptionSetType": "Boolean",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Is Trending",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "TrueOption": {
+                "Value": 1,
+                "IsManaged": false,
+                "ExternalValue": "",
+                "Label": {
+                  "LocalizedLabels": [
+                    {
+                      "Label": "Yes",
+                      "LanguageCode": 1033
+                    }
+                  ]
+                },
+                "Description": {
+                  "LocalizedLabels": []
+                }
+              },
+              "FalseOption": {
+                "Value": 0,
+                "IsManaged": false,
+                "ExternalValue": "",
+                "Label": {
+                  "LocalizedLabels": [
+                    {
+                      "Label": "No",
+                      "LanguageCode": 1033
+                    }
+                  ]
+                },
+                "Description": {
+                  "LocalizedLabels": []
+                }
+              },
+              "Name": "cr69a_skill2_cr69a_istrending"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.BooleanAttributeMetadata"
+          },
+          {
+            "MetadataId": "657109e2-0c7b-4730-bbae-447f9b246e2f",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_DemandWeight",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Demand Weight",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Integer",
+            "AttributeTypeName": {
+              "Value": "IntegerType"
+            },
+            "MaxValue": 2147483647,
+            "MinValue": -2147483648,
+            "Format": "None",
+            "@odata.type": "Microsoft.Dynamics.CRM.IntegerAttributeMetadata"
+          }
+        ],
+        "OwnershipType": "UserOwned",
+        "PrimaryNameAttribute": "cr69a_name",
+        "SchemaName": "cr69a_Skill2",
+        "HasNotes": false,
+        "HasActivities": false,
+        "IsAvailableOffline": false,
+        "IsActivity": false,
+        "ActivityTypeMask": 0,
+        "IsSolutionAware": false,
+        "Description": {
+          "LocalizedLabels": [
+            {
+              "Label": "Master list of skills for placement readiness",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayCollectionName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Skills",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Skill",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "IsAuditEnabled": {
+          "Value": false
+        },
+        "IsValidForQueue": {
+          "Value": false
+        },
+        "IsConnectionsEnabled": {
+          "Value": false
+        },
+        "IsDuplicateDetectionEnabled": {
+          "Value": true
+        },
+        "IsDocumentManagementEnabled": false,
+        "EntityColor": null,
+        "IsRetentionEnabled": false,
+        "SyncToExternalSearchIndex": false,
+        "AutoRouteToOwnerQueue": false,
+        "IsSLAEnabled": false,
+        "IsQuickCreateEnabled": false,
+        "IsActivityParty": false,
+        "HasFeedback": false,
+        "AutoCreateAccessTeams": false,
+        "ChangeTrackingEnabled": false,
+        "IsKnowledgeManagementEnabled": false,
+        "EntityHelpUrlEnabled": false,
+        "EntityHelpUrl": null,
+        "IsMailMergeEnabled": {
+          "Value": true
+        },
+        "IsOfflineInMobileClient": {
+          "Value": false
+        },
+        "ManyToOneRelationships": [],
+        "@odata.type": "Microsoft.Dynamics.CRM.EntityMetadata",
+        "PrimaryIdAttribute": "cr69a_skill2id"
+      },
+      "dataPayloadFormat": "Dataverse",
+      "tableSourceType": "DataModelProposal"
+    },
+    {
+      "data": [
+        {
+          "cr69a_studentskillname": "Rahul - Python",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(093d19ea-df96-4bb7-a3f6-bbe1e1344d05)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(1bf7c79f-b2cd-4606-bf76-9e88223f3ed3)",
+          "cr69a_proficiency": 372620002,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "cfaaedb3-e0a6-4e60-abee-e05cc1fb1de4"
+        },
+        {
+          "cr69a_studentskillname": "Rahul - Java",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(093d19ea-df96-4bb7-a3f6-bbe1e1344d05)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(379c469e-e23a-4582-bec6-1a707db69ad9)",
+          "cr69a_proficiency": 372620002,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "887a9695-0b38-4de6-a52e-e6f707b2950b"
+        },
+        {
+          "cr69a_studentskillname": "Rahul - React",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(093d19ea-df96-4bb7-a3f6-bbe1e1344d05)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(626ec2cd-4504-45a7-8e68-10b31544e415)",
+          "cr69a_proficiency": 372620001,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "fb0af450-0a70-4ba8-82e8-7725309d4d15"
+        },
+        {
+          "cr69a_studentskillname": "Priya - Python",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(7d5e6dc2-b8b1-42dc-9c1e-04db1a4e56be)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(1bf7c79f-b2cd-4606-bf76-9e88223f3ed3)",
+          "cr69a_proficiency": 372620002,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "97619ec7-612e-4162-9d91-2115f03682c9"
+        },
+        {
+          "cr69a_studentskillname": "Priya - JavaScript",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(7d5e6dc2-b8b1-42dc-9c1e-04db1a4e56be)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(20b8167d-c1e2-465c-ac25-75a438f4c851)",
+          "cr69a_proficiency": 372620002,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "19c7fa84-f2ec-4fd4-98ee-82c5c9f3e796"
+        },
+        {
+          "cr69a_studentskillname": "Priya - AWS",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(7d5e6dc2-b8b1-42dc-9c1e-04db1a4e56be)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(a44df860-d172-4de4-b63d-43c2e03c8e14)",
+          "cr69a_proficiency": 372620001,
+          "cr69a_verified": false,
+          "cr69a_studentskill2id": "e46453ce-13d5-4cea-a4ba-208a2faf227f"
+        },
+        {
+          "cr69a_studentskillname": "Arjun - Java",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(32966565-886a-4377-a297-a32156da8c5a)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(379c469e-e23a-4582-bec6-1a707db69ad9)",
+          "cr69a_proficiency": 372620001,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "59b083fb-e13e-46d5-a2a7-331bdeb4bfa6"
+        },
+        {
+          "cr69a_studentskillname": "Arjun - SQL",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(32966565-886a-4377-a297-a32156da8c5a)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(2beb4f81-10ea-47a1-be6f-6d99fc76879b)",
+          "cr69a_proficiency": 372620002,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "7eae3179-0ada-4142-9ab2-7f3de770ffa1"
+        },
+        {
+          "cr69a_studentskillname": "Vikram - JavaScript",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(df5c0679-bfae-443c-8379-5fb07d434348)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(20b8167d-c1e2-465c-ac25-75a438f4c851)",
+          "cr69a_proficiency": 372620002,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "22fe0845-5f85-409d-bffe-28d59f09c3c7"
+        },
+        {
+          "cr69a_studentskillname": "Vikram - Node.js",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(df5c0679-bfae-443c-8379-5fb07d434348)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(5b11c291-85cb-40ce-a846-069d05915134)",
+          "cr69a_proficiency": 372620002,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "aa982714-ea4f-4ddd-a142-d43a368aa642"
+        },
+        {
+          "cr69a_studentskillname": "Karthik - Python",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(f2996d43-8b4a-427e-8ce9-6fb3e456b59d)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(1bf7c79f-b2cd-4606-bf76-9e88223f3ed3)",
+          "cr69a_proficiency": 372620002,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "0eb33832-44a6-4e58-b693-4de56d749a38"
+        },
+        {
+          "cr69a_studentskillname": "Karthik - Machine Learning",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(f2996d43-8b4a-427e-8ce9-6fb3e456b59d)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(2b1e864c-7a65-44a2-9352-fb02dee83fa5)",
+          "cr69a_proficiency": 372620001,
+          "cr69a_verified": false,
+          "cr69a_studentskill2id": "c93fa02b-c0d0-4f80-93dd-0dcf374578fd"
+        },
+        {
+          "cr69a_studentskillname": "Divya - Java",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(c8d3c66b-1410-4c4c-bbd6-4466d08e55a7)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(379c469e-e23a-4582-bec6-1a707db69ad9)",
+          "cr69a_proficiency": 372620002,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "7034aa0f-3e81-43c1-a6ca-bbc65f01d0c4"
+        },
+        {
+          "cr69a_studentskillname": "Divya - Spring Boot",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(c8d3c66b-1410-4c4c-bbd6-4466d08e55a7)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(fa9c835c-ffe4-4c52-983e-19f2312ab519)",
+          "cr69a_proficiency": 372620001,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "9017fcde-e0ea-4948-8c12-863fdfab238f"
+        },
+        {
+          "cr69a_studentskillname": "Priya - Communication",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(7d5e6dc2-b8b1-42dc-9c1e-04db1a4e56be)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(2a7181c5-92ae-49cf-b738-2146f3c0133d)",
+          "cr69a_proficiency": 372620002,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "a3e0b1b3-704c-4846-bdaa-b13bcf6a32de"
+        },
+        {
+          "cr69a_studentskillname": "Rahul - SQL",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(093d19ea-df96-4bb7-a3f6-bbe1e1344d05)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(2beb4f81-10ea-47a1-be6f-6d99fc76879b)",
+          "cr69a_proficiency": 372620001,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "db057cb8-1589-42c5-a379-16aea7e1fcdc"
+        },
+        {
+          "cr69a_studentskillname": "Rahul - Data Structures",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(093d19ea-df96-4bb7-a3f6-bbe1e1344d05)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(f14a8007-68e6-4d7f-a8ee-0128ced6a9b6)",
+          "cr69a_proficiency": 372620002,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "f04c00a3-26fa-41fc-aaf7-23d9a280f57f"
+        },
+        {
+          "cr69a_studentskillname": "Rahul - Problem Solving",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(093d19ea-df96-4bb7-a3f6-bbe1e1344d05)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(f3c3a9e7-353c-4af9-9510-7a0fd5d981dd)",
+          "cr69a_proficiency": 372620001,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "72a24106-b319-4b65-b5af-da7c8a9078bb"
+        },
+        {
+          "cr69a_studentskillname": "Rahul - Algorithms",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(093d19ea-df96-4bb7-a3f6-bbe1e1344d05)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(1b1244a2-0faa-438b-bb62-18d040a1af37)",
+          "cr69a_proficiency": 372620002,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "7df871cf-5bdc-454a-a341-30dc026f64c8"
+        },
+        {
+          "cr69a_studentskillname": "Rahul - Communication",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(093d19ea-df96-4bb7-a3f6-bbe1e1344d05)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(2a7181c5-92ae-49cf-b738-2146f3c0133d)",
+          "cr69a_proficiency": 372620001,
+          "cr69a_verified": true,
+          "cr69a_studentskill2id": "2d95002c-df4c-41f5-9649-0ecb31bdf8d0"
+        }
+      ],
+      "entity": {
+        "MetadataId": "0a4760dc-aab3-4e17-866c-fc81026d2b55",
+        "Attributes": [
+          {
+            "MetadataId": "3c96f20c-b30f-4ae9-a166-1dc559052456",
+            "IsPrimaryName": true,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_StudentSkillName",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Student Skill Name",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 850,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "8b3bffa9-0d44-4961-b966-424ec2f4d374",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Student",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Student",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Lookup",
+            "AttributeTypeName": {
+              "Value": "LookupType"
+            },
+            "Targets": [
+              "cr69a_student2"
+            ],
+            "@odata.type": "Microsoft.Dynamics.CRM.LookupAttributeMetadata"
+          },
+          {
+            "MetadataId": "efb8f766-99ca-490e-92bd-07357e401806",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Skill",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Skill",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Lookup",
+            "AttributeTypeName": {
+              "Value": "LookupType"
+            },
+            "Targets": [
+              "cr69a_skill2"
+            ],
+            "@odata.type": "Microsoft.Dynamics.CRM.LookupAttributeMetadata"
+          },
+          {
+            "MetadataId": "ec5287a4-5151-475f-a1ec-0aaf8e92ab78",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Proficiency",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Proficiency",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Picklist",
+            "AttributeTypeName": {
+              "Value": "PicklistType"
+            },
+            "DefaultFormValue": -1,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "ExternalTypeName": "",
+              "OptionSetType": "Picklist",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Proficiency",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "Options": [
+                {
+                  "Value": 372620000,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Beginner",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620001,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Intermediate",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620002,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Advanced",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                }
+              ],
+              "Name": "cr69a_studentskill2_cr69a_proficiency"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.PicklistAttributeMetadata"
+          },
+          {
+            "MetadataId": "5be0b0aa-2cac-4a20-b411-3ef72273d350",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Verified",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Verified",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Boolean",
+            "AttributeTypeName": {
+              "Value": "BooleanType"
+            },
+            "DefaultValue": false,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "IsManaged": false,
+              "ExternalTypeName": "",
+              "OptionSetType": "Boolean",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Verified",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "TrueOption": {
+                "Value": 1,
+                "IsManaged": false,
+                "ExternalValue": "",
+                "Label": {
+                  "LocalizedLabels": [
+                    {
+                      "Label": "Yes",
+                      "LanguageCode": 1033
+                    }
+                  ]
+                },
+                "Description": {
+                  "LocalizedLabels": []
+                }
+              },
+              "FalseOption": {
+                "Value": 0,
+                "IsManaged": false,
+                "ExternalValue": "",
+                "Label": {
+                  "LocalizedLabels": [
+                    {
+                      "Label": "No",
+                      "LanguageCode": 1033
+                    }
+                  ]
+                },
+                "Description": {
+                  "LocalizedLabels": []
+                }
+              },
+              "Name": "cr69a_studentskill2_cr69a_verified"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.BooleanAttributeMetadata"
+          }
+        ],
+        "OwnershipType": "UserOwned",
+        "PrimaryNameAttribute": "cr69a_studentskillname",
+        "SchemaName": "cr69a_StudentSkill2",
+        "HasNotes": false,
+        "HasActivities": false,
+        "IsAvailableOffline": false,
+        "IsActivity": false,
+        "ActivityTypeMask": 0,
+        "IsSolutionAware": false,
+        "Description": {
+          "LocalizedLabels": [
+            {
+              "Label": "Junction table linking students to skills with proficiency levels",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayCollectionName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Student Skills",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Student Skill",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "IsAuditEnabled": {
+          "Value": false
+        },
+        "IsValidForQueue": {
+          "Value": false
+        },
+        "IsConnectionsEnabled": {
+          "Value": false
+        },
+        "IsDuplicateDetectionEnabled": {
+          "Value": true
+        },
+        "IsDocumentManagementEnabled": false,
+        "EntityColor": null,
+        "IsRetentionEnabled": false,
+        "SyncToExternalSearchIndex": false,
+        "AutoRouteToOwnerQueue": false,
+        "IsSLAEnabled": false,
+        "IsQuickCreateEnabled": false,
+        "IsActivityParty": false,
+        "HasFeedback": false,
+        "AutoCreateAccessTeams": false,
+        "ChangeTrackingEnabled": false,
+        "IsKnowledgeManagementEnabled": false,
+        "EntityHelpUrlEnabled": false,
+        "EntityHelpUrl": null,
+        "IsMailMergeEnabled": {
+          "Value": true
+        },
+        "IsOfflineInMobileClient": {
+          "Value": false
+        },
+        "ManyToOneRelationships": [
+          {
+            "MetadataId": "fd78fed1-0021-4942-aacb-0b9e037109cf",
+            "SchemaName": "cr69a_studentskill2_cr69a_student_cr69a_student2",
+            "ReferencingAttribute": "cr69a_student",
+            "ReferencedEntity": "cr69a_student2",
+            "ReferencingEntity": "cr69a_studentskill2",
+            "ReferencedAttribute": "cr69a_student2id",
+            "ReferencingEntityNavigationPropertyName": "cr69a_Student",
+            "RelationshipType": "OneToManyRelationship",
+            "IsCustomRelationship": true,
+            "IsValidForAdvancedFind": true,
+            "IsCustomizable": {
+              "Value": true,
+              "CanBeChanged": true,
+              "ManagedPropertyLogicalName": "iscustomizable"
+            },
+            "CascadeConfiguration": {
+              "Assign": "NoCascade",
+              "Delete": "RemoveLink",
+              "Merge": "NoCascade",
+              "Reparent": "NoCascade",
+              "Share": "NoCascade",
+              "Unshare": "NoCascade",
+              "RollupView": "NoCascade",
+              "Archive": "RemoveLink"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.OneToManyRelationshipMetadata"
+          },
+          {
+            "MetadataId": "fffbf2b5-ba82-4673-8575-cf3bf8817c4d",
+            "SchemaName": "cr69a_studentskill2_cr69a_skill_cr69a_skill2",
+            "ReferencingAttribute": "cr69a_skill",
+            "ReferencedEntity": "cr69a_skill2",
+            "ReferencingEntity": "cr69a_studentskill2",
+            "ReferencedAttribute": "cr69a_skill2id",
+            "ReferencingEntityNavigationPropertyName": "cr69a_Skill",
+            "RelationshipType": "OneToManyRelationship",
+            "IsCustomRelationship": true,
+            "IsValidForAdvancedFind": true,
+            "IsCustomizable": {
+              "Value": true,
+              "CanBeChanged": true,
+              "ManagedPropertyLogicalName": "iscustomizable"
+            },
+            "CascadeConfiguration": {
+              "Assign": "NoCascade",
+              "Delete": "RemoveLink",
+              "Merge": "NoCascade",
+              "Reparent": "NoCascade",
+              "Share": "NoCascade",
+              "Unshare": "NoCascade",
+              "RollupView": "NoCascade",
+              "Archive": "RemoveLink"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.OneToManyRelationshipMetadata"
+          }
+        ],
+        "@odata.type": "Microsoft.Dynamics.CRM.EntityMetadata",
+        "PrimaryIdAttribute": "cr69a_studentskill2id"
+      },
+      "dataPayloadFormat": "Dataverse",
+      "tableSourceType": "DataModelProposal"
+    },
+    {
+      "data": [
+        {
+          "cr69a_companyname": "TCS",
+          "cr69a_companylogo": "TCS technology company logo",
+          "cr69a_jobrole": "Software Engineer",
+          "cr69a_description": "Develop and maintain enterprise applications using Java and Spring Boot",
+          "cr69a_packagelpa": 3.6,
+          "cr69a_drivedate": "2026-06-15T10:00:00.000Z",
+          "cr69a_applicationdeadline": "2026-06-01T23:59:59.000Z",
+          "cr69a_status": 372620001,
+          "cr69a_location": "Hyderabad",
+          "cr69a_openings": 50,
+          "cr69a_placementdrive2id": "97a1b1f6-776b-483d-9264-026487867d70"
+        },
+        {
+          "cr69a_companyname": "Infosys",
+          "cr69a_companylogo": "Infosys technology company logo",
+          "cr69a_jobrole": "Systems Engineer",
+          "cr69a_description": "Work on full-stack development projects with modern technologies",
+          "cr69a_packagelpa": 4,
+          "cr69a_drivedate": "2026-06-20T09:00:00.000Z",
+          "cr69a_applicationdeadline": "2026-06-05T23:59:59.000Z",
+          "cr69a_status": 372620000,
+          "cr69a_location": "Bangalore",
+          "cr69a_openings": 40,
+          "cr69a_placementdrive2id": "732f5121-edf2-42a5-bf00-9f2272e619ec"
+        },
+        {
+          "cr69a_companyname": "Wipro",
+          "cr69a_companylogo": "Wipro technology company logo",
+          "cr69a_jobrole": "Project Engineer",
+          "cr69a_description": "Build scalable web applications using MEAN stack",
+          "cr69a_packagelpa": 3.8,
+          "cr69a_drivedate": "2026-07-01T11:00:00.000Z",
+          "cr69a_applicationdeadline": "2026-06-15T23:59:59.000Z",
+          "cr69a_status": 372620000,
+          "cr69a_location": "Pune",
+          "cr69a_openings": 30,
+          "cr69a_placementdrive2id": "930248b5-1e3a-4e8b-8afe-e1195aa39f61"
+        },
+        {
+          "cr69a_companyname": "Amazon",
+          "cr69a_companylogo": "Amazon company logo",
+          "cr69a_jobrole": "SDE-1",
+          "cr69a_description": "Design and develop distributed systems at scale",
+          "cr69a_packagelpa": 15,
+          "cr69a_drivedate": "2026-06-25T14:00:00.000Z",
+          "cr69a_applicationdeadline": "2026-06-10T23:59:59.000Z",
+          "cr69a_status": 372620001,
+          "cr69a_location": "Bangalore",
+          "cr69a_openings": 10,
+          "cr69a_placementdrive2id": "49b27789-0092-442c-8308-9f65636883e3"
+        },
+        {
+          "cr69a_companyname": "Google",
+          "cr69a_companylogo": "Google company logo",
+          "cr69a_jobrole": "Software Engineer",
+          "cr69a_description": "Work on products used by billions of users worldwide",
+          "cr69a_packagelpa": 18,
+          "cr69a_drivedate": "2026-07-10T10:00:00.000Z",
+          "cr69a_applicationdeadline": "2026-06-20T23:59:59.000Z",
+          "cr69a_status": 372620000,
+          "cr69a_location": "Hyderabad",
+          "cr69a_openings": 5,
+          "cr69a_placementdrive2id": "e4b8e9b6-3d4a-47cb-8036-1b6d5cc01358"
+        },
+        {
+          "cr69a_companyname": "Microsoft",
+          "cr69a_companylogo": "Microsoft company logo",
+          "cr69a_jobrole": "Software Development Engineer",
+          "cr69a_description": "Build cloud-based solutions on Azure platform",
+          "cr69a_packagelpa": 16.5,
+          "cr69a_drivedate": "2026-07-05T13:00:00.000Z",
+          "cr69a_applicationdeadline": "2026-06-18T23:59:59.000Z",
+          "cr69a_status": 372620000,
+          "cr69a_location": "Bangalore",
+          "cr69a_openings": 8,
+          "cr69a_placementdrive2id": "17f03ec6-5b08-49e8-b544-5ec657e136ef"
+        },
+        {
+          "cr69a_companyname": "Goldman Sachs",
+          "cr69a_companylogo": "Goldman Sachs financial company logo",
+          "cr69a_jobrole": "Quantitative Analyst",
+          "cr69a_description": "Work on quantitative trading strategies and risk models",
+          "cr69a_packagelpa": 25,
+          "cr69a_drivedate": "2026-07-20T10:00:00.000Z",
+          "cr69a_applicationdeadline": "2026-07-05T23:59:59.000Z",
+          "cr69a_status": 372620001,
+          "cr69a_location": "Bangalore",
+          "cr69a_openings": 3,
+          "cr69a_placementdrive2id": "d0d09212-4435-47fd-9aac-eaf29c3e55ed"
+        },
+        {
+          "cr69a_companyname": "Morgan Stanley",
+          "cr69a_companylogo": "Morgan Stanley financial company logo",
+          "cr69a_jobrole": "Technology Analyst",
+          "cr69a_description": "Build high-performance trading systems",
+          "cr69a_packagelpa": 22,
+          "cr69a_drivedate": "2026-07-25T10:00:00.000Z",
+          "cr69a_applicationdeadline": "2026-07-10T23:59:59.000Z",
+          "cr69a_status": 372620001,
+          "cr69a_location": "Mumbai",
+          "cr69a_openings": 5,
+          "cr69a_placementdrive2id": "720a76c7-6a59-4b00-ab6d-8c9d78d535af"
+        },
+        {
+          "cr69a_companyname": "Deloitte",
+          "cr69a_companylogo": "Deloitte consulting company logo",
+          "cr69a_jobrole": "Business Technology Analyst",
+          "cr69a_description": "Consulting on digital transformation projects",
+          "cr69a_packagelpa": 8,
+          "cr69a_drivedate": "2026-07-15T10:00:00.000Z",
+          "cr69a_applicationdeadline": "2026-06-30T23:59:59.000Z",
+          "cr69a_status": 372620000,
+          "cr69a_location": "Chennai",
+          "cr69a_openings": 20,
+          "cr69a_placementdrive2id": "cf05bda2-be34-438d-8d3a-95c77d589581"
+        }
+      ],
+      "entity": {
+        "MetadataId": "c78c5c5f-fe17-4757-a260-eab13bca7a40",
+        "Attributes": [
+          {
+            "MetadataId": "f14217a0-2c59-4109-b2bc-35cbcab32ce1",
+            "IsPrimaryName": true,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_CompanyName",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Company Name",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 850,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "022f8128-f2d2-454c-8e85-22027d4cb357",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_CompanyLogo",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Company Logo",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "None"
+            },
+            "AttributeType": "Memo",
+            "AttributeTypeName": {
+              "Value": "MemoType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 2000,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.MemoAttributeMetadata"
+          },
+          {
+            "MetadataId": "8533df1d-1024-424e-bfc2-8735ed9f041d",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_JobRole",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Job Role",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 100,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "382c39e0-97ce-4d30-b1db-96a201980aec",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Description",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Description",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "None"
+            },
+            "AttributeType": "Memo",
+            "AttributeTypeName": {
+              "Value": "MemoType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 2000,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.MemoAttributeMetadata"
+          },
+          {
+            "MetadataId": "0227c4fe-de97-425e-ae25-0c4c11408caa",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_PackageLPA",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Package (LPA)",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Decimal",
+            "AttributeTypeName": {
+              "Value": "DecimalType"
+            },
+            "ImeMode": "Auto",
+            "MaxValue": 100000000000,
+            "MinValue": -100000000000,
+            "Precision": 2,
+            "@odata.type": "Microsoft.Dynamics.CRM.DecimalAttributeMetadata"
+          },
+          {
+            "MetadataId": "4cf7cffc-4b74-45c7-8c5b-db9efaca39e4",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_DriveDate",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Drive Date",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "ImeMode": "Auto",
+            "AttributeType": "DateTime",
+            "AttributeTypeName": {
+              "Value": "DateTimeType"
+            },
+            "Format": "DateAndTime",
+            "DateTimeBehavior": {
+              "Value": "UserLocal"
+            },
+            "CanChangeDateTimeBehavior": {
+              "Value": true,
+              "CanBeChanged": true,
+              "ManagedPropertyLogicalName": "canmodifybehavior"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.DateTimeAttributeMetadata"
+          },
+          {
+            "MetadataId": "3fcc347f-7bba-47cb-91e3-146790c071eb",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_ApplicationDeadline",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Application Deadline",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "ImeMode": "Auto",
+            "AttributeType": "DateTime",
+            "AttributeTypeName": {
+              "Value": "DateTimeType"
+            },
+            "Format": "DateAndTime",
+            "DateTimeBehavior": {
+              "Value": "UserLocal"
+            },
+            "CanChangeDateTimeBehavior": {
+              "Value": true,
+              "CanBeChanged": true,
+              "ManagedPropertyLogicalName": "canmodifybehavior"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.DateTimeAttributeMetadata"
+          },
+          {
+            "MetadataId": "26324f30-85f9-4205-b112-6e8f94e91fdd",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Status",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Status",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Picklist",
+            "AttributeTypeName": {
+              "Value": "PicklistType"
+            },
+            "DefaultFormValue": -1,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "ExternalTypeName": "",
+              "OptionSetType": "Picklist",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Status",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "Options": [
+                {
+                  "Value": 372620000,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Upcoming",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620001,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Active",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620002,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Completed",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620003,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Cancelled",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                }
+              ],
+              "Name": "cr69a_placementdrive2_cr69a_status"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.PicklistAttributeMetadata"
+          },
+          {
+            "MetadataId": "d471ca44-c1ef-4561-b1af-734ecd8718d0",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Location",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Location",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 100,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "b29d86fd-2fa0-4383-877f-49b4ff2a5865",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Openings",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Openings",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Integer",
+            "AttributeTypeName": {
+              "Value": "IntegerType"
+            },
+            "MaxValue": 2147483647,
+            "MinValue": -2147483648,
+            "Format": "None",
+            "@odata.type": "Microsoft.Dynamics.CRM.IntegerAttributeMetadata"
+          }
+        ],
+        "OwnershipType": "UserOwned",
+        "PrimaryNameAttribute": "cr69a_companyname",
+        "SchemaName": "cr69a_PlacementDrive2",
+        "HasNotes": false,
+        "HasActivities": false,
+        "IsAvailableOffline": false,
+        "IsActivity": false,
+        "ActivityTypeMask": 0,
+        "IsSolutionAware": false,
+        "Description": {
+          "LocalizedLabels": [
+            {
+              "Label": "Company placement events and job opportunities",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayCollectionName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Placement Drives",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Placement Drive",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "IsAuditEnabled": {
+          "Value": false
+        },
+        "IsValidForQueue": {
+          "Value": false
+        },
+        "IsConnectionsEnabled": {
+          "Value": false
+        },
+        "IsDuplicateDetectionEnabled": {
+          "Value": true
+        },
+        "IsDocumentManagementEnabled": false,
+        "EntityColor": null,
+        "IsRetentionEnabled": false,
+        "SyncToExternalSearchIndex": false,
+        "AutoRouteToOwnerQueue": false,
+        "IsSLAEnabled": false,
+        "IsQuickCreateEnabled": false,
+        "IsActivityParty": false,
+        "HasFeedback": false,
+        "AutoCreateAccessTeams": false,
+        "ChangeTrackingEnabled": false,
+        "IsKnowledgeManagementEnabled": false,
+        "EntityHelpUrlEnabled": false,
+        "EntityHelpUrl": null,
+        "IsMailMergeEnabled": {
+          "Value": true
+        },
+        "IsOfflineInMobileClient": {
+          "Value": false
+        },
+        "ManyToOneRelationships": [],
+        "@odata.type": "Microsoft.Dynamics.CRM.EntityMetadata",
+        "PrimaryIdAttribute": "cr69a_placementdrive2id"
+      },
+      "dataPayloadFormat": "Dataverse",
+      "tableSourceType": "DataModelProposal"
+    },
+    {
+      "data": [
+        {
+          "cr69a_driverequirementid": "6fe86bf1-84e1-43a4-8aad-cfa68f35b036",
+          "cr69a_requirementname": "TCS - Java",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(97a1b1f6-776b-483d-9264-026487867d70)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(379c469e-e23a-4582-bec6-1a707db69ad9)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "c97171f8-4c44-4339-a80c-e3b51432b30b",
+          "cr69a_requirementname": "TCS - SQL",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(97a1b1f6-776b-483d-9264-026487867d70)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(2beb4f81-10ea-47a1-be6f-6d99fc76879b)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "a375f5c2-c073-4e89-b6e5-647664da0784",
+          "cr69a_requirementname": "TCS - Spring Boot",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(97a1b1f6-776b-483d-9264-026487867d70)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(fa9c835c-ffe4-4c52-983e-19f2312ab519)",
+          "cr69a_minimumproficiency": 372620000,
+          "cr69a_ismandatory": false
+        },
+        {
+          "cr69a_driverequirementid": "20af7419-1eb9-47e5-9e64-baf95debbef4",
+          "cr69a_requirementname": "Infosys - Python",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(732f5121-edf2-42a5-bf00-9f2272e619ec)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(1bf7c79f-b2cd-4606-bf76-9e88223f3ed3)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "599dc49c-eebe-4b5f-9bb9-0268e8cc0ab5",
+          "cr69a_requirementname": "Infosys - JavaScript",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(732f5121-edf2-42a5-bf00-9f2272e619ec)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(20b8167d-c1e2-465c-ac25-75a438f4c851)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "fd1496b0-ff0c-40fd-ab3a-15672728b135",
+          "cr69a_requirementname": "Wipro - JavaScript",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(930248b5-1e3a-4e8b-8afe-e1195aa39f61)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(20b8167d-c1e2-465c-ac25-75a438f4c851)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "743ef071-b0f6-4594-8d12-159b1717f40f",
+          "cr69a_requirementname": "Wipro - Node.js",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(930248b5-1e3a-4e8b-8afe-e1195aa39f61)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(5b11c291-85cb-40ce-a846-069d05915134)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "71f38790-0c43-47a4-8049-5e9f0a68c8ff",
+          "cr69a_requirementname": "Wipro - MongoDB",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(930248b5-1e3a-4e8b-8afe-e1195aa39f61)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(0720560c-ee0c-4e29-bd29-56f0f2ea05f5)",
+          "cr69a_minimumproficiency": 372620000,
+          "cr69a_ismandatory": false
+        },
+        {
+          "cr69a_driverequirementid": "be95bceb-0bb9-4954-bf05-c2b7b34d94cc",
+          "cr69a_requirementname": "Amazon - Data Structures",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(49b27789-0092-442c-8308-9f65636883e3)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(f14a8007-68e6-4d7f-a8ee-0128ced6a9b6)",
+          "cr69a_minimumproficiency": 372620002,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "ba4fb21f-01dc-4b39-bf42-059ddbdc6ff7",
+          "cr69a_requirementname": "Amazon - Algorithms",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(49b27789-0092-442c-8308-9f65636883e3)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(1b1244a2-0faa-438b-bb62-18d040a1af37)",
+          "cr69a_minimumproficiency": 372620002,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "d353e27d-1e08-4421-a397-2ad4b55b337d",
+          "cr69a_requirementname": "Amazon - Python",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(49b27789-0092-442c-8308-9f65636883e3)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(1bf7c79f-b2cd-4606-bf76-9e88223f3ed3)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "f7f4f11d-9e43-4ff7-bda5-e6f786ebcd37",
+          "cr69a_requirementname": "Google - Problem Solving",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(e4b8e9b6-3d4a-47cb-8036-1b6d5cc01358)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(f3c3a9e7-353c-4af9-9510-7a0fd5d981dd)",
+          "cr69a_minimumproficiency": 372620002,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "a86b22ed-b12c-409d-849e-caf0912efb5f",
+          "cr69a_requirementname": "Google - Python",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(e4b8e9b6-3d4a-47cb-8036-1b6d5cc01358)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(1bf7c79f-b2cd-4606-bf76-9e88223f3ed3)",
+          "cr69a_minimumproficiency": 372620002,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "2a7858aa-69bb-4686-828d-dcfe71774e2e",
+          "cr69a_requirementname": "Microsoft - C++",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(17f03ec6-5b08-49e8-b544-5ec657e136ef)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(22e7540d-0072-438d-b175-8a13142e327d)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "a4582b90-891a-4a43-ae00-e3b2d975bab9",
+          "cr69a_requirementname": "Microsoft - AWS",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(17f03ec6-5b08-49e8-b544-5ec657e136ef)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(a44df860-d172-4de4-b63d-43c2e03c8e14)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": false
+        },
+        {
+          "cr69a_driverequirementid": "8727fa30-d993-4d9a-8d30-c501dffd2995",
+          "cr69a_requirementname": "Goldman Sachs - Python",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(d0d09212-4435-47fd-9aac-eaf29c3e55ed)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(1bf7c79f-b2cd-4606-bf76-9e88223f3ed3)",
+          "cr69a_minimumproficiency": 372620002,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "f5d1ce7e-9a71-4365-9835-fffd05932f7d",
+          "cr69a_requirementname": "Goldman Sachs - Data Structures",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(d0d09212-4435-47fd-9aac-eaf29c3e55ed)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(f14a8007-68e6-4d7f-a8ee-0128ced6a9b6)",
+          "cr69a_minimumproficiency": 372620002,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "3a773b93-e3d2-4f58-83b1-a74b4878b386",
+          "cr69a_requirementname": "Goldman Sachs - Machine Learning",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(d0d09212-4435-47fd-9aac-eaf29c3e55ed)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(2b1e864c-7a65-44a2-9352-fb02dee83fa5)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "c16d9087-d4d7-4dfc-a18f-171f9847811b",
+          "cr69a_requirementname": "Morgan Stanley - Java",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(720a76c7-6a59-4b00-ab6d-8c9d78d535af)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(379c469e-e23a-4582-bec6-1a707db69ad9)",
+          "cr69a_minimumproficiency": 372620002,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "2a83e86b-ffb2-4f1b-84e5-7c389098ae7e",
+          "cr69a_requirementname": "Morgan Stanley - C++",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(720a76c7-6a59-4b00-ab6d-8c9d78d535af)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(22e7540d-0072-438d-b175-8a13142e327d)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "8977beec-aab3-4142-bee8-cf98b3cbdad6",
+          "cr69a_requirementname": "Morgan Stanley - Data Structures",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(720a76c7-6a59-4b00-ab6d-8c9d78d535af)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(f14a8007-68e6-4d7f-a8ee-0128ced6a9b6)",
+          "cr69a_minimumproficiency": 372620002,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "47a56850-1bcf-4b10-a25c-f51b8d342aa6",
+          "cr69a_requirementname": "Deloitte - Communication",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(cf05bda2-be34-438d-8d3a-95c77d589581)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(2a7181c5-92ae-49cf-b738-2146f3c0133d)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": true
+        },
+        {
+          "cr69a_driverequirementid": "b3471abd-f3ff-454b-b666-6bd8e1b6a14a",
+          "cr69a_requirementname": "Deloitte - Problem Solving",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(cf05bda2-be34-438d-8d3a-95c77d589581)",
+          "cr69a_Skill@odata.bind": "/cr69a_skill2s(f3c3a9e7-353c-4af9-9510-7a0fd5d981dd)",
+          "cr69a_minimumproficiency": 372620001,
+          "cr69a_ismandatory": true
+        }
+      ],
+      "entity": {
+        "MetadataId": "3b473699-7a1b-4155-9075-37c8d80a719f",
+        "Attributes": [
+          {
+            "MetadataId": "015d91d6-4bac-400a-a2a0-4b0aa150f5e9",
+            "IsPrimaryName": true,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_RequirementName",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Requirement Name",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 850,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "e35ca269-f830-4799-a360-9023dd2dc442",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_PlacementDrive",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Placement Drive",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Lookup",
+            "AttributeTypeName": {
+              "Value": "LookupType"
+            },
+            "Targets": [
+              "cr69a_placementdrive2"
+            ],
+            "@odata.type": "Microsoft.Dynamics.CRM.LookupAttributeMetadata"
+          },
+          {
+            "MetadataId": "1055285d-6093-4703-8985-6fd83efe8011",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Skill",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Skill",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Lookup",
+            "AttributeTypeName": {
+              "Value": "LookupType"
+            },
+            "Targets": [
+              "cr69a_skill2"
+            ],
+            "@odata.type": "Microsoft.Dynamics.CRM.LookupAttributeMetadata"
+          },
+          {
+            "MetadataId": "7522d174-ecff-4f96-96f9-c2607dcd172b",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_MinimumProficiency",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Minimum Proficiency",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Picklist",
+            "AttributeTypeName": {
+              "Value": "PicklistType"
+            },
+            "DefaultFormValue": -1,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "ExternalTypeName": "",
+              "OptionSetType": "Picklist",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Minimum Proficiency",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "Options": [
+                {
+                  "Value": 372620000,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Beginner",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620001,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Intermediate",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620002,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Advanced",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.PicklistAttributeMetadata"
+          },
+          {
+            "MetadataId": "9fddc906-44ad-401b-aba6-713ed2862f7e",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_IsMandatory",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Is Mandatory",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Boolean",
+            "AttributeTypeName": {
+              "Value": "BooleanType"
+            },
+            "DefaultValue": false,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "IsManaged": false,
+              "ExternalTypeName": "",
+              "OptionSetType": "Boolean",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Is Mandatory",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "TrueOption": {
+                "Value": 1,
+                "IsManaged": false,
+                "ExternalValue": "",
+                "Label": {
+                  "LocalizedLabels": [
+                    {
+                      "Label": "Yes",
+                      "LanguageCode": 1033
+                    }
+                  ]
+                },
+                "Description": {
+                  "LocalizedLabels": []
+                }
+              },
+              "FalseOption": {
+                "Value": 0,
+                "IsManaged": false,
+                "ExternalValue": "",
+                "Label": {
+                  "LocalizedLabels": [
+                    {
+                      "Label": "No",
+                      "LanguageCode": 1033
+                    }
+                  ]
+                },
+                "Description": {
+                  "LocalizedLabels": []
+                }
+              }
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.BooleanAttributeMetadata"
+          }
+        ],
+        "OwnershipType": "UserOwned",
+        "PrimaryNameAttribute": "cr69a_requirementname",
+        "SchemaName": "cr69a_DriveRequirement",
+        "HasNotes": false,
+        "HasActivities": false,
+        "IsAvailableOffline": false,
+        "IsActivity": false,
+        "ActivityTypeMask": 0,
+        "IsSolutionAware": false,
+        "Description": {
+          "LocalizedLabels": [
+            {
+              "Label": "Skills required for each placement drive",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayCollectionName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Drive Requirements",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Drive Requirement",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "IsAuditEnabled": {
+          "Value": false
+        },
+        "IsValidForQueue": {
+          "Value": false
+        },
+        "IsConnectionsEnabled": {
+          "Value": false
+        },
+        "IsDuplicateDetectionEnabled": {
+          "Value": true
+        },
+        "IsDocumentManagementEnabled": false,
+        "EntityColor": null,
+        "IsRetentionEnabled": false,
+        "SyncToExternalSearchIndex": false,
+        "AutoRouteToOwnerQueue": false,
+        "IsSLAEnabled": false,
+        "IsQuickCreateEnabled": false,
+        "IsActivityParty": false,
+        "HasFeedback": false,
+        "AutoCreateAccessTeams": false,
+        "ChangeTrackingEnabled": false,
+        "IsKnowledgeManagementEnabled": false,
+        "EntityHelpUrlEnabled": false,
+        "EntityHelpUrl": null,
+        "IsMailMergeEnabled": {
+          "Value": true
+        },
+        "IsOfflineInMobileClient": {
+          "Value": false
+        },
+        "ManyToOneRelationships": [
+          {
+            "MetadataId": "8d85af90-9219-47b8-938e-a7d37f7ee9ff",
+            "SchemaName": "cr69a_driverequirement_cr69a_placementdrive_cr69a_placementdrive2",
+            "ReferencingAttribute": "cr69a_placementdrive",
+            "ReferencedEntity": "cr69a_placementdrive2",
+            "ReferencingEntity": "cr69a_driverequirement",
+            "ReferencedAttribute": "cr69a_placementdrive2id",
+            "ReferencingEntityNavigationPropertyName": "cr69a_PlacementDrive",
+            "RelationshipType": "OneToManyRelationship",
+            "IsCustomRelationship": true,
+            "IsValidForAdvancedFind": true,
+            "IsCustomizable": {
+              "Value": true,
+              "CanBeChanged": true,
+              "ManagedPropertyLogicalName": "iscustomizable"
+            },
+            "CascadeConfiguration": {
+              "Assign": "NoCascade",
+              "Delete": "RemoveLink",
+              "Merge": "NoCascade",
+              "Reparent": "NoCascade",
+              "Share": "NoCascade",
+              "Unshare": "NoCascade",
+              "RollupView": "NoCascade",
+              "Archive": "RemoveLink"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.OneToManyRelationshipMetadata"
+          },
+          {
+            "MetadataId": "7a08b5c2-f0e5-4af8-be32-57e951ee8636",
+            "SchemaName": "cr69a_driverequirement_cr69a_skill_cr69a_skill2",
+            "ReferencingAttribute": "cr69a_skill",
+            "ReferencedEntity": "cr69a_skill2",
+            "ReferencingEntity": "cr69a_driverequirement",
+            "ReferencedAttribute": "cr69a_skill2id",
+            "ReferencingEntityNavigationPropertyName": "cr69a_Skill",
+            "RelationshipType": "OneToManyRelationship",
+            "IsCustomRelationship": true,
+            "IsValidForAdvancedFind": true,
+            "IsCustomizable": {
+              "Value": true,
+              "CanBeChanged": true,
+              "ManagedPropertyLogicalName": "iscustomizable"
+            },
+            "CascadeConfiguration": {
+              "Assign": "NoCascade",
+              "Delete": "RemoveLink",
+              "Merge": "NoCascade",
+              "Reparent": "NoCascade",
+              "Share": "NoCascade",
+              "Unshare": "NoCascade",
+              "RollupView": "NoCascade",
+              "Archive": "RemoveLink"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.OneToManyRelationshipMetadata"
+          }
+        ],
+        "@odata.type": "Microsoft.Dynamics.CRM.EntityMetadata"
+      },
+      "dataPayloadFormat": "Dataverse",
+      "tableSourceType": "DataModelProposal"
+    },
+    {
+      "data": [
+        {
+          "cr69a_criterianame": "TCS Eligibility",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(97a1b1f6-776b-483d-9264-026487867d70)",
+          "cr69a_minimumcgpa": 6,
+          "cr69a_alloweddepartments": "All",
+          "cr69a_allowedyears": "3rd Year, 4th Year",
+          "cr69a_maximumbacklogs": 2,
+          "cr69a_eligibilitycriteria1id": "8d5a61f1-2b3d-4e73-ac07-00d941429149"
+        },
+        {
+          "cr69a_criterianame": "Infosys Eligibility",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(732f5121-edf2-42a5-bf00-9f2272e619ec)",
+          "cr69a_minimumcgpa": 6.5,
+          "cr69a_alloweddepartments": "All",
+          "cr69a_allowedyears": "3rd Year, 4th Year",
+          "cr69a_maximumbacklogs": 1,
+          "cr69a_eligibilitycriteria1id": "2922de1a-aa16-44a1-a939-f51b4dc657aa"
+        },
+        {
+          "cr69a_criterianame": "Wipro Eligibility",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(930248b5-1e3a-4e8b-8afe-e1195aa39f61)",
+          "cr69a_minimumcgpa": 6,
+          "cr69a_alloweddepartments": "Computer Science, Information Technology, Electronics",
+          "cr69a_allowedyears": "3rd Year, 4th Year",
+          "cr69a_maximumbacklogs": 2,
+          "cr69a_eligibilitycriteria1id": "bd8c76ea-87b7-4866-80ed-fa2274e1189a"
+        },
+        {
+          "cr69a_criterianame": "Amazon Eligibility",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(49b27789-0092-442c-8308-9f65636883e3)",
+          "cr69a_minimumcgpa": 7.5,
+          "cr69a_alloweddepartments": "Computer Science, Information Technology",
+          "cr69a_allowedyears": "3rd Year, 4th Year",
+          "cr69a_maximumbacklogs": 0,
+          "cr69a_eligibilitycriteria1id": "6f74f942-5602-4728-8468-a00fd6e50d77"
+        },
+        {
+          "cr69a_criterianame": "Google Eligibility",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(e4b8e9b6-3d4a-47cb-8036-1b6d5cc01358)",
+          "cr69a_minimumcgpa": 8,
+          "cr69a_alloweddepartments": "Computer Science, Information Technology",
+          "cr69a_allowedyears": "3rd Year, 4th Year",
+          "cr69a_maximumbacklogs": 0,
+          "cr69a_eligibilitycriteria1id": "bfcdb9d5-e70e-42b0-aab9-953aa135dadd"
+        },
+        {
+          "cr69a_criterianame": "Goldman Sachs Eligibility",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(d0d09212-4435-47fd-9aac-eaf29c3e55ed)",
+          "cr69a_minimumcgpa": 8.5,
+          "cr69a_alloweddepartments": "Computer Science",
+          "cr69a_allowedyears": "4th Year",
+          "cr69a_maximumbacklogs": 0,
+          "cr69a_eligibilitycriteria1id": "ca393f7e-277a-4932-a9b9-bfb697d8dd0d"
+        },
+        {
+          "cr69a_criterianame": "Morgan Stanley Eligibility",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(720a76c7-6a59-4b00-ab6d-8c9d78d535af)",
+          "cr69a_minimumcgpa": 8.5,
+          "cr69a_alloweddepartments": "Computer Science, Electronics",
+          "cr69a_allowedyears": "4th Year",
+          "cr69a_maximumbacklogs": 0,
+          "cr69a_eligibilitycriteria1id": "5eb4c7f0-a20e-4c60-986b-b9cb8c18f822"
+        },
+        {
+          "cr69a_criterianame": "Deloitte Eligibility",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(cf05bda2-be34-438d-8d3a-95c77d589581)",
+          "cr69a_minimumcgpa": 7.5,
+          "cr69a_alloweddepartments": "All",
+          "cr69a_allowedyears": "3rd Year, 4th Year",
+          "cr69a_maximumbacklogs": 1,
+          "cr69a_eligibilitycriteria1id": "15e83dd1-9d58-49de-8bc1-c4fc13d4de79"
+        },
+        {
+          "cr69a_criterianame": "Microsoft Eligibility",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(17f03ec6-5b08-49e8-b544-5ec657e136ef)",
+          "cr69a_minimumcgpa": 8,
+          "cr69a_alloweddepartments": "Computer Science, Information Technology",
+          "cr69a_allowedyears": "3rd Year, 4th Year",
+          "cr69a_maximumbacklogs": 0,
+          "cr69a_eligibilitycriteria1id": "e4c63298-3659-4738-bf8c-800d5558d8c7"
+        }
+      ],
+      "entity": {
+        "MetadataId": "54955746-2631-4266-9c7f-d19632bc3d95",
+        "Attributes": [
+          {
+            "MetadataId": "e7f36434-4c03-4e61-aef0-6bf21870a97e",
+            "IsPrimaryName": true,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_CriteriaName",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Criteria Name",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 850,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "f6d7cba4-5556-498f-85ef-bc69da1d8d5a",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_PlacementDrive",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Placement Drive",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Lookup",
+            "AttributeTypeName": {
+              "Value": "LookupType"
+            },
+            "Targets": [
+              "cr69a_placementdrive2"
+            ],
+            "@odata.type": "Microsoft.Dynamics.CRM.LookupAttributeMetadata"
+          },
+          {
+            "MetadataId": "840dc8f3-3632-47df-8756-3ed827a0ff63",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_MinimumCGPA",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Minimum CGPA",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Decimal",
+            "AttributeTypeName": {
+              "Value": "DecimalType"
+            },
+            "ImeMode": "Auto",
+            "MaxValue": 100000000000,
+            "MinValue": -100000000000,
+            "Precision": 2,
+            "@odata.type": "Microsoft.Dynamics.CRM.DecimalAttributeMetadata"
+          },
+          {
+            "MetadataId": "9023b10b-1b9c-4eef-a160-a4e2435a93fc",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_AllowedDepartments",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Allowed Departments",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 100,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "ee830aea-6ab7-4001-9129-ec2569bbd75e",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_AllowedYears",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Allowed Years",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 100,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "2007cffb-5b07-4a07-bbdc-83cc1635c256",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_MaximumBacklogs",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Maximum Backlogs",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Integer",
+            "AttributeTypeName": {
+              "Value": "IntegerType"
+            },
+            "MaxValue": 2147483647,
+            "MinValue": -2147483648,
+            "Format": "None",
+            "@odata.type": "Microsoft.Dynamics.CRM.IntegerAttributeMetadata"
+          }
+        ],
+        "OwnershipType": "UserOwned",
+        "PrimaryNameAttribute": "cr69a_criterianame",
+        "SchemaName": "cr69a_EligibilityCriteria1",
+        "HasNotes": false,
+        "HasActivities": false,
+        "IsAvailableOffline": false,
+        "IsActivity": false,
+        "ActivityTypeMask": 0,
+        "IsSolutionAware": false,
+        "Description": {
+          "LocalizedLabels": [
+            {
+              "Label": "Eligibility rules for each placement drive",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayCollectionName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Eligibility Criteria",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Eligibility Criteria",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "IsAuditEnabled": {
+          "Value": false
+        },
+        "IsValidForQueue": {
+          "Value": false
+        },
+        "IsConnectionsEnabled": {
+          "Value": false
+        },
+        "IsDuplicateDetectionEnabled": {
+          "Value": true
+        },
+        "IsDocumentManagementEnabled": false,
+        "EntityColor": null,
+        "IsRetentionEnabled": false,
+        "SyncToExternalSearchIndex": false,
+        "AutoRouteToOwnerQueue": false,
+        "IsSLAEnabled": false,
+        "IsQuickCreateEnabled": false,
+        "IsActivityParty": false,
+        "HasFeedback": false,
+        "AutoCreateAccessTeams": false,
+        "ChangeTrackingEnabled": false,
+        "IsKnowledgeManagementEnabled": false,
+        "EntityHelpUrlEnabled": false,
+        "EntityHelpUrl": null,
+        "IsMailMergeEnabled": {
+          "Value": true
+        },
+        "IsOfflineInMobileClient": {
+          "Value": false
+        },
+        "ManyToOneRelationships": [
+          {
+            "MetadataId": "ccd64e8e-ed39-463e-81e0-74c4a6896de4",
+            "SchemaName": "cr69a_eligibilitycriteria1_cr69a_placementdrive_cr69a_placementdrive2",
+            "ReferencingAttribute": "cr69a_placementdrive",
+            "ReferencedEntity": "cr69a_placementdrive2",
+            "ReferencingEntity": "cr69a_eligibilitycriteria1",
+            "ReferencedAttribute": "cr69a_placementdrive2id",
+            "ReferencingEntityNavigationPropertyName": "cr69a_PlacementDrive",
+            "RelationshipType": "OneToManyRelationship",
+            "IsCustomRelationship": true,
+            "IsValidForAdvancedFind": true,
+            "IsCustomizable": {
+              "Value": true,
+              "CanBeChanged": true,
+              "ManagedPropertyLogicalName": "iscustomizable"
+            },
+            "CascadeConfiguration": {
+              "Assign": "NoCascade",
+              "Delete": "RemoveLink",
+              "Merge": "NoCascade",
+              "Reparent": "NoCascade",
+              "Share": "NoCascade",
+              "Unshare": "NoCascade",
+              "RollupView": "NoCascade",
+              "Archive": "RemoveLink"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.OneToManyRelationshipMetadata"
+          }
+        ],
+        "@odata.type": "Microsoft.Dynamics.CRM.EntityMetadata",
+        "PrimaryIdAttribute": "cr69a_eligibilitycriteria1id"
+      },
+      "dataPayloadFormat": "Dataverse",
+      "tableSourceType": "DataModelProposal"
+    },
+    {
+      "data": [
+        {
+          "cr69a_title": "Amazon Drive Opens Today",
+          "cr69a_message": "Amazon is hiring for SDE-1 positions. Application deadline is June 10th. Ensure your profile is updated.",
+          "cr69a_notificationtype": 372620000,
+          "cr69a_targetaudience": 372620001,
+          "cr69a_createdat": "2026-05-25T09:00:00.000Z",
+          "cr69a_isread": false,
+          "cr69a_Student@odata.bind": null,
+          "cr69a_notification2id": "ca1bfd82-a077-4f48-bd21-67606910903c"
+        },
+        {
+          "cr69a_title": "TCS Application Deadline Approaching",
+          "cr69a_message": "Only 3 days left to apply for TCS Software Engineer role. Don't miss this opportunity!",
+          "cr69a_notificationtype": 372620001,
+          "cr69a_targetaudience": 372620000,
+          "cr69a_createdat": "2026-05-29T10:00:00.000Z",
+          "cr69a_isread": false,
+          "cr69a_Student@odata.bind": null,
+          "cr69a_notification2id": "752f50d8-71d5-4b2f-8c22-041bf332423d"
+        },
+        {
+          "cr69a_title": "Skill Recommendation: AWS",
+          "cr69a_message": "Based on upcoming drives, we recommend learning AWS. Check our training resources.",
+          "cr69a_notificationtype": 372620003,
+          "cr69a_targetaudience": 372620000,
+          "cr69a_createdat": "2026-05-20T14:00:00.000Z",
+          "cr69a_isread": true,
+          "cr69a_Student@odata.bind": null,
+          "cr69a_notification2id": "8ae929fb-9f3b-48f3-b67c-f4c257b2fde7"
+        },
+        {
+          "cr69a_title": "Google Drive Announced",
+          "cr69a_message": "Google is visiting campus on July 10th for Software Engineer positions. Minimum CGPA 8.5 required.",
+          "cr69a_notificationtype": 372620000,
+          "cr69a_targetaudience": 372620001,
+          "cr69a_createdat": "2026-05-22T11:00:00.000Z",
+          "cr69a_isread": false,
+          "cr69a_Student@odata.bind": null,
+          "cr69a_notification2id": "4f88fc13-de05-44af-8d50-1f5438eb14d3"
+        },
+        {
+          "cr69a_title": "Profile Completion Reminder",
+          "cr69a_message": "Your profile is 70% complete. Add more skills to increase your placement readiness score.",
+          "cr69a_notificationtype": 372620004,
+          "cr69a_targetaudience": 372620000,
+          "cr69a_createdat": "2026-05-27T08:00:00.000Z",
+          "cr69a_isread": false,
+          "cr69a_Student@odata.bind": "/cr69a_student2s(093d19ea-df96-4bb7-a3f6-bbe1e1344d05)",
+          "cr69a_notification2id": "fcbccd57-430f-4f01-9a62-0b6f7eae8526"
+        }
+      ],
+      "entity": {
+        "MetadataId": "af64ae67-1e76-4fb1-a7ac-6263b8e185c0",
+        "Attributes": [
+          {
+            "MetadataId": "be68181a-8a70-47e9-a4e1-abb6921bc3cb",
+            "IsPrimaryName": true,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Title",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Title",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 850,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "6f9a137a-e26d-4005-a77e-97741a00ba87",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Message",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Message",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Memo",
+            "AttributeTypeName": {
+              "Value": "MemoType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 2000,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.MemoAttributeMetadata"
+          },
+          {
+            "MetadataId": "b6dae092-8062-41f7-9ada-ab38d08a555a",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_NotificationType",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Notification Type",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Picklist",
+            "AttributeTypeName": {
+              "Value": "PicklistType"
+            },
+            "DefaultFormValue": -1,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "ExternalTypeName": "",
+              "OptionSetType": "Picklist",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Notification Type",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "Options": [
+                {
+                  "Value": 372620000,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Drive Announcement",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620001,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Deadline Reminder",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620002,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Eligibility Update",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620003,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Skill Recommendation",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620004,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "General",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                }
+              ],
+              "Name": "cr69a_notification2_cr69a_notificationtype"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.PicklistAttributeMetadata"
+          },
+          {
+            "MetadataId": "18dad082-aa70-4ca8-9724-4ad3ac9cde17",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_TargetAudience",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Target Audience",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Picklist",
+            "AttributeTypeName": {
+              "Value": "PicklistType"
+            },
+            "DefaultFormValue": -1,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "ExternalTypeName": "",
+              "OptionSetType": "Picklist",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Target Audience",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "Options": [
+                {
+                  "Value": 372620000,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "All Students",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620001,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Eligible Only",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620002,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Specific Department",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620003,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Specific Year",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                }
+              ],
+              "Name": "cr69a_notification2_cr69a_targetaudience"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.PicklistAttributeMetadata"
+          },
+          {
+            "MetadataId": "0d158624-dff2-424c-8acd-d712e7209820",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_CreatedAt",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Created At",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "ImeMode": "Auto",
+            "AttributeType": "DateTime",
+            "AttributeTypeName": {
+              "Value": "DateTimeType"
+            },
+            "Format": "DateAndTime",
+            "DateTimeBehavior": {
+              "Value": "UserLocal"
+            },
+            "CanChangeDateTimeBehavior": {
+              "Value": true,
+              "CanBeChanged": true,
+              "ManagedPropertyLogicalName": "canmodifybehavior"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.DateTimeAttributeMetadata"
+          },
+          {
+            "MetadataId": "f0982d85-5bb3-4235-9f1d-d42b9eb3814d",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_IsRead",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Is Read",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Boolean",
+            "AttributeTypeName": {
+              "Value": "BooleanType"
+            },
+            "DefaultValue": false,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "IsManaged": false,
+              "ExternalTypeName": "",
+              "OptionSetType": "Boolean",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Is Read",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "TrueOption": {
+                "Value": 1,
+                "IsManaged": false,
+                "ExternalValue": "",
+                "Label": {
+                  "LocalizedLabels": [
+                    {
+                      "Label": "Yes",
+                      "LanguageCode": 1033
+                    }
+                  ]
+                },
+                "Description": {
+                  "LocalizedLabels": []
+                }
+              },
+              "FalseOption": {
+                "Value": 0,
+                "IsManaged": false,
+                "ExternalValue": "",
+                "Label": {
+                  "LocalizedLabels": [
+                    {
+                      "Label": "No",
+                      "LanguageCode": 1033
+                    }
+                  ]
+                },
+                "Description": {
+                  "LocalizedLabels": []
+                }
+              },
+              "Name": "cr69a_notification2_cr69a_isread"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.BooleanAttributeMetadata"
+          },
+          {
+            "MetadataId": "59a44d89-5b5e-4e3c-8648-0d78fcce2352",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Student",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Student",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "None"
+            },
+            "AttributeType": "Lookup",
+            "AttributeTypeName": {
+              "Value": "LookupType"
+            },
+            "Targets": [
+              "cr69a_student2"
+            ],
+            "@odata.type": "Microsoft.Dynamics.CRM.LookupAttributeMetadata"
+          }
+        ],
+        "OwnershipType": "UserOwned",
+        "PrimaryNameAttribute": "cr69a_title",
+        "SchemaName": "cr69a_Notification2",
+        "HasNotes": false,
+        "HasActivities": false,
+        "IsAvailableOffline": false,
+        "IsActivity": false,
+        "ActivityTypeMask": 0,
+        "IsSolutionAware": false,
+        "Description": {
+          "LocalizedLabels": [
+            {
+              "Label": "Announcements and alerts for students",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayCollectionName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Notifications",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Notification",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "IsAuditEnabled": {
+          "Value": false
+        },
+        "IsValidForQueue": {
+          "Value": false
+        },
+        "IsConnectionsEnabled": {
+          "Value": false
+        },
+        "IsDuplicateDetectionEnabled": {
+          "Value": true
+        },
+        "IsDocumentManagementEnabled": false,
+        "EntityColor": null,
+        "IsRetentionEnabled": false,
+        "SyncToExternalSearchIndex": false,
+        "AutoRouteToOwnerQueue": false,
+        "IsSLAEnabled": false,
+        "IsQuickCreateEnabled": false,
+        "IsActivityParty": false,
+        "HasFeedback": false,
+        "AutoCreateAccessTeams": false,
+        "ChangeTrackingEnabled": false,
+        "IsKnowledgeManagementEnabled": false,
+        "EntityHelpUrlEnabled": false,
+        "EntityHelpUrl": null,
+        "IsMailMergeEnabled": {
+          "Value": true
+        },
+        "IsOfflineInMobileClient": {
+          "Value": false
+        },
+        "ManyToOneRelationships": [
+          {
+            "MetadataId": "65896b1a-705a-4ec5-acb7-b6b930a82454",
+            "SchemaName": "cr69a_notification2_cr69a_student_cr69a_student2",
+            "ReferencingAttribute": "cr69a_student",
+            "ReferencedEntity": "cr69a_student2",
+            "ReferencingEntity": "cr69a_notification2",
+            "ReferencedAttribute": "cr69a_student2id",
+            "ReferencingEntityNavigationPropertyName": "cr69a_Student",
+            "RelationshipType": "OneToManyRelationship",
+            "IsCustomRelationship": true,
+            "IsValidForAdvancedFind": true,
+            "IsCustomizable": {
+              "Value": true,
+              "CanBeChanged": true,
+              "ManagedPropertyLogicalName": "iscustomizable"
+            },
+            "CascadeConfiguration": {
+              "Assign": "NoCascade",
+              "Delete": "RemoveLink",
+              "Merge": "NoCascade",
+              "Reparent": "NoCascade",
+              "Share": "NoCascade",
+              "Unshare": "NoCascade",
+              "RollupView": "NoCascade",
+              "Archive": "RemoveLink"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.OneToManyRelationshipMetadata"
+          }
+        ],
+        "@odata.type": "Microsoft.Dynamics.CRM.EntityMetadata",
+        "PrimaryIdAttribute": "cr69a_notification2id"
+      },
+      "dataPayloadFormat": "Dataverse",
+      "tableSourceType": "DataModelProposal"
+    },
+    {
+      "data": [
+        {
+          "cr69a_driveapplicationid": "cf3a6b13-e9d0-4847-a3a5-3f7499544490",
+          "cr69a_applicationname": "Rahul - TCS",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(093d19ea-df96-4bb7-a3f6-bbe1e1344d05)",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(97a1b1f6-776b-483d-9264-026487867d70)",
+          "cr69a_appliedat": "2026-05-26T10:30:00.000Z",
+          "cr69a_status": 372620001
+        },
+        {
+          "cr69a_driveapplicationid": "4b17366c-80ea-4327-86af-941410965815",
+          "cr69a_applicationname": "Priya - TCS",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(7d5e6dc2-b8b1-42dc-9c1e-04db1a4e56be)",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(97a1b1f6-776b-483d-9264-026487867d70)",
+          "cr69a_appliedat": "2026-05-26T11:00:00.000Z",
+          "cr69a_status": 372620003
+        },
+        {
+          "cr69a_driveapplicationid": "5ba4a820-2097-4b5c-bfc1-8f1511f7ff1b",
+          "cr69a_applicationname": "Priya - Amazon",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(7d5e6dc2-b8b1-42dc-9c1e-04db1a4e56be)",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(49b27789-0092-442c-8308-9f65636883e3)",
+          "cr69a_appliedat": "2026-05-27T09:15:00.000Z",
+          "cr69a_status": 372620002
+        },
+        {
+          "cr69a_driveapplicationid": "08a4d25d-b0ea-4d06-957a-a68d618e0c87",
+          "cr69a_applicationname": "Karthik - Amazon",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(f2996d43-8b4a-427e-8ce9-6fb3e456b59d)",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(49b27789-0092-442c-8308-9f65636883e3)",
+          "cr69a_appliedat": "2026-05-27T10:00:00.000Z",
+          "cr69a_status": 372620001
+        },
+        {
+          "cr69a_driveapplicationid": "6461c4dc-2e6e-4928-960e-d903bf221efe",
+          "cr69a_applicationname": "Divya - Infosys",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(c8d3c66b-1410-4c4c-bbd6-4466d08e55a7)",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(732f5121-edf2-42a5-bf00-9f2272e619ec)",
+          "cr69a_appliedat": "2026-05-28T14:20:00.000Z",
+          "cr69a_status": 372620000
+        },
+        {
+          "cr69a_driveapplicationid": "b90f4dea-737a-4e8d-9b6e-c9e02777b72d",
+          "cr69a_applicationname": "Vikram - Wipro",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(df5c0679-bfae-443c-8379-5fb07d434348)",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(930248b5-1e3a-4e8b-8afe-e1195aa39f61)",
+          "cr69a_appliedat": "2026-05-28T15:45:00.000Z",
+          "cr69a_status": 372620000
+        },
+        {
+          "cr69a_driveapplicationid": "c808c712-8574-48d5-890c-f4c2750c8970",
+          "cr69a_applicationname": "Arjun - TCS",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(32966565-886a-4377-a297-a32156da8c5a)",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(97a1b1f6-776b-483d-9264-026487867d70)",
+          "cr69a_appliedat": "2026-05-29T08:00:00.000Z",
+          "cr69a_status": 372620004
+        },
+        {
+          "cr69a_driveapplicationid": "661e017f-ccb3-43e2-b4d7-ec075d512ed5",
+          "cr69a_applicationname": "Priya - Google",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(7d5e6dc2-b8b1-42dc-9c1e-04db1a4e56be)",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(e4b8e9b6-3d4a-47cb-8036-1b6d5cc01358)",
+          "cr69a_appliedat": "2026-05-30T12:00:00.000Z",
+          "cr69a_status": 372620000
+        },
+        {
+          "cr69a_driveapplicationid": "55ad3887-8832-4c2a-8fe2-fec599d6ba6a",
+          "cr69a_applicationname": "Karthik - Microsoft",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(f2996d43-8b4a-427e-8ce9-6fb3e456b59d)",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(17f03ec6-5b08-49e8-b544-5ec657e136ef)",
+          "cr69a_appliedat": "2026-05-30T13:30:00.000Z",
+          "cr69a_status": 372620000
+        },
+        {
+          "cr69a_driveapplicationid": "ed14bf01-8b9b-4b91-a054-284ef9129597",
+          "cr69a_applicationname": "Rahul - Infosys",
+          "cr69a_Student@odata.bind": "/cr69a_student2s(093d19ea-df96-4bb7-a3f6-bbe1e1344d05)",
+          "cr69a_PlacementDrive@odata.bind": "/cr69a_placementdrive2s(732f5121-edf2-42a5-bf00-9f2272e619ec)",
+          "cr69a_appliedat": "2026-05-31T09:00:00.000Z",
+          "cr69a_status": 372620001
+        }
+      ],
+      "entity": {
+        "MetadataId": "c9e11ddb-7157-4612-830d-0cf45ffd155b",
+        "Attributes": [
+          {
+            "MetadataId": "6071193f-a120-4987-835c-2cf6dd952f5d",
+            "IsPrimaryName": true,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_ApplicationName",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Application Name",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "String",
+            "AttributeTypeName": {
+              "Value": "StringType"
+            },
+            "ImeMode": "Auto",
+            "MaxLength": 850,
+            "FormatName": {
+              "Value": "Text"
+            },
+            "Format": "Text",
+            "AutoNumberFormat": null,
+            "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata"
+          },
+          {
+            "MetadataId": "ddab6d1a-336d-478a-8f94-7f28994fc40a",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Student",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Student",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Lookup",
+            "AttributeTypeName": {
+              "Value": "LookupType"
+            },
+            "Targets": [
+              "cr69a_student2"
+            ],
+            "@odata.type": "Microsoft.Dynamics.CRM.LookupAttributeMetadata"
+          },
+          {
+            "MetadataId": "d8c07b13-1b66-49cd-a693-1b22d596c740",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_PlacementDrive",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Placement Drive",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Lookup",
+            "AttributeTypeName": {
+              "Value": "LookupType"
+            },
+            "Targets": [
+              "cr69a_placementdrive2"
+            ],
+            "@odata.type": "Microsoft.Dynamics.CRM.LookupAttributeMetadata"
+          },
+          {
+            "MetadataId": "7561bb2d-1769-4565-8447-0618d2444278",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_AppliedAt",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Applied At",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "ImeMode": "Auto",
+            "AttributeType": "DateTime",
+            "AttributeTypeName": {
+              "Value": "DateTimeType"
+            },
+            "Format": "DateAndTime",
+            "DateTimeBehavior": {
+              "Value": "UserLocal"
+            },
+            "CanChangeDateTimeBehavior": {
+              "Value": true,
+              "CanBeChanged": true,
+              "ManagedPropertyLogicalName": "canmodifybehavior"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.DateTimeAttributeMetadata"
+          },
+          {
+            "MetadataId": "a3274d3c-5a94-43c5-9d4f-d0a46430c629",
+            "IsPrimaryName": false,
+            "IsSecured": false,
+            "IsValidForUpdate": true,
+            "IsValidForRead": true,
+            "SchemaName": "cr69a_Status",
+            "SourceType": 0,
+            "ExternalName": null,
+            "Description": {
+              "LocalizedLabels": [
+                {
+                  "Label": "",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "DisplayName": {
+              "LocalizedLabels": [
+                {
+                  "Label": "Status",
+                  "LanguageCode": 1033
+                }
+              ]
+            },
+            "RequiredLevel": {
+              "Value": "ApplicationRequired"
+            },
+            "AttributeType": "Picklist",
+            "AttributeTypeName": {
+              "Value": "PicklistType"
+            },
+            "DefaultFormValue": -1,
+            "OptionSet": {
+              "IsCustomOptionSet": true,
+              "IsGlobal": false,
+              "IsCustomizable": {
+                "Value": true,
+                "CanBeChanged": false,
+                "ManagedPropertyLogicalName": "iscustomizable"
+              },
+              "ExternalTypeName": "",
+              "OptionSetType": "Picklist",
+              "Description": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "DisplayName": {
+                "LocalizedLabels": [
+                  {
+                    "Label": "Status",
+                    "LanguageCode": 1033
+                  }
+                ]
+              },
+              "Options": [
+                {
+                  "Value": 372620000,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Applied",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620001,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Shortlisted",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620002,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Interview Scheduled",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620003,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Selected",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620004,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Rejected",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Value": 372620005,
+                  "ExternalValue": "",
+                  "IsManaged": false,
+                  "Label": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "Withdrawn",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  },
+                  "Description": {
+                    "LocalizedLabels": [
+                      {
+                        "Label": "",
+                        "LanguageCode": 1033
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.PicklistAttributeMetadata"
+          }
+        ],
+        "OwnershipType": "UserOwned",
+        "PrimaryNameAttribute": "cr69a_applicationname",
+        "SchemaName": "cr69a_DriveApplication",
+        "HasNotes": false,
+        "HasActivities": false,
+        "IsAvailableOffline": false,
+        "IsActivity": false,
+        "ActivityTypeMask": 0,
+        "IsSolutionAware": false,
+        "Description": {
+          "LocalizedLabels": [
+            {
+              "Label": "Student applications to placement drives",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayCollectionName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Drive Applications",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "DisplayName": {
+          "LocalizedLabels": [
+            {
+              "Label": "Drive Application",
+              "LanguageCode": 1033
+            }
+          ]
+        },
+        "IsAuditEnabled": {
+          "Value": false
+        },
+        "IsValidForQueue": {
+          "Value": false
+        },
+        "IsConnectionsEnabled": {
+          "Value": false
+        },
+        "IsDuplicateDetectionEnabled": {
+          "Value": true
+        },
+        "IsDocumentManagementEnabled": false,
+        "EntityColor": null,
+        "IsRetentionEnabled": false,
+        "SyncToExternalSearchIndex": false,
+        "AutoRouteToOwnerQueue": false,
+        "IsSLAEnabled": false,
+        "IsQuickCreateEnabled": false,
+        "IsActivityParty": false,
+        "HasFeedback": false,
+        "AutoCreateAccessTeams": false,
+        "ChangeTrackingEnabled": false,
+        "IsKnowledgeManagementEnabled": false,
+        "EntityHelpUrlEnabled": false,
+        "EntityHelpUrl": null,
+        "IsMailMergeEnabled": {
+          "Value": true
+        },
+        "IsOfflineInMobileClient": {
+          "Value": false
+        },
+        "ManyToOneRelationships": [
+          {
+            "MetadataId": "c74a7413-1e5c-43dc-8878-37ae1a3b336d",
+            "SchemaName": "cr69a_driveapplication_cr69a_student_cr69a_student2",
+            "ReferencingAttribute": "cr69a_student",
+            "ReferencedEntity": "cr69a_student2",
+            "ReferencingEntity": "cr69a_driveapplication",
+            "ReferencedAttribute": "cr69a_student2id",
+            "ReferencingEntityNavigationPropertyName": "cr69a_Student",
+            "RelationshipType": "OneToManyRelationship",
+            "IsCustomRelationship": true,
+            "IsValidForAdvancedFind": true,
+            "IsCustomizable": {
+              "Value": true,
+              "CanBeChanged": true,
+              "ManagedPropertyLogicalName": "iscustomizable"
+            },
+            "CascadeConfiguration": {
+              "Assign": "NoCascade",
+              "Delete": "RemoveLink",
+              "Merge": "NoCascade",
+              "Reparent": "NoCascade",
+              "Share": "NoCascade",
+              "Unshare": "NoCascade",
+              "RollupView": "NoCascade",
+              "Archive": "RemoveLink"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.OneToManyRelationshipMetadata"
+          },
+          {
+            "MetadataId": "f6b0a0b6-de89-48dd-aa82-a0cb3ad05347",
+            "SchemaName": "cr69a_driveapplication_cr69a_placementdrive_cr69a_placementdrive2",
+            "ReferencingAttribute": "cr69a_placementdrive",
+            "ReferencedEntity": "cr69a_placementdrive2",
+            "ReferencingEntity": "cr69a_driveapplication",
+            "ReferencedAttribute": "cr69a_placementdrive2id",
+            "ReferencingEntityNavigationPropertyName": "cr69a_PlacementDrive",
+            "RelationshipType": "OneToManyRelationship",
+            "IsCustomRelationship": true,
+            "IsValidForAdvancedFind": true,
+            "IsCustomizable": {
+              "Value": true,
+              "CanBeChanged": true,
+              "ManagedPropertyLogicalName": "iscustomizable"
+            },
+            "CascadeConfiguration": {
+              "Assign": "NoCascade",
+              "Delete": "RemoveLink",
+              "Merge": "NoCascade",
+              "Reparent": "NoCascade",
+              "Share": "NoCascade",
+              "Unshare": "NoCascade",
+              "RollupView": "NoCascade",
+              "Archive": "RemoveLink"
+            },
+            "@odata.type": "Microsoft.Dynamics.CRM.OneToManyRelationshipMetadata"
+          }
+        ],
+        "@odata.type": "Microsoft.Dynamics.CRM.EntityMetadata"
+      },
+      "dataPayloadFormat": "Dataverse",
+      "tableSourceType": "DataModelProposal"
+    }
+  ]
+}
